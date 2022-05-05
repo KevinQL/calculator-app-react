@@ -1,5 +1,5 @@
 import './App.css';
-import logoImg from './img/calculator.png';
+import logoImg from './img/mylogo1.png';
 import Boton from "./components/Boton";
 import Pantalla from "./components/Pantalla";
 import BotonClear from "./components/BotonClear";
